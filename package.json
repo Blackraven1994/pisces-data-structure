@@ -12,8 +12,8 @@
     "typescript",
     "data-structure"
   ],
-  "author": "",
-  "license": "MIC",
+  "author": "blackraven1994",
+  "license": "MIT",
   "devDependencies": {
     "@types/webpack-env": "^1.18.0",
     "eslint": "^8.36.0",
