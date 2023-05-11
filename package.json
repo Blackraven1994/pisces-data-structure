@@ -10,7 +10,15 @@
   },
   "keywords": [
     "typescript",
-    "data-structure"
+    "data-structure",
+    "list",
+    "stack",
+    "queue",
+    "linkedList",
+    "heap",
+    "hashTable",
+    "graph",
+    "tree"
   ],
   "author": "blackraven1994",
   "license": "MIT",
