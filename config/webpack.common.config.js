@@ -5,7 +5,7 @@ const resolve = (_path) => {
 };
 
 module.exports = {
-    entry: './src/index.ts',
+    entry: './index.ts',
     output: {
         clean: true,
         path: resolve('../build'),
