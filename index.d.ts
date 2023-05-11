@@ -1,6 +1,3 @@
-/**
- * 类型/接口
- */
 export type {
     IList,
 
@@ -33,9 +30,6 @@ export type {
     IHeap,
 } from './src';
 
-/**
- * 实现的数据结构
- */
 export {
     Stack,
 
