@@ -108,7 +108,7 @@ class Heap<T = any> implements IHeap<T> {
         this.data = list;
         this.length = list.length;
 
-        const _startIndex = Math.floor((this.length - 1) / 2);
+        const _startIndex = Math.floor(this.length / 2 - 1);
 
         for (let _index = _startIndex; _index >= 0; _index--) {
             this.percolateDown(_index);
